@@ -31,7 +31,7 @@ The system supports:
 The image below shows the robot operating during autonomous line-following mode, highlighting
 real-time sensor feedback and proportional steering correction.
 
-![Line-following robot in action](Image-LineFollowingRobot.png)
+![Line-following robot in action](https://raw.githubusercontent.com/AngeloReade-WPI/CS-1005-Remote-Control-Line-Following-Robot/refs/heads/main/images/XRP.jpg)
 
 *Robot autonomously tracking a line using proportional control.*
 
